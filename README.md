@@ -24,4 +24,4 @@ In order to run the program you need to go to the terminal and type the name of 
 Example:
 *The data set in this exmaple is in the same directory as HW1.py, hence no full path was written.
 
-python knn_classifier.py ./hhd_dataset
+python knn_classifier.py ./hhd_dataset 
